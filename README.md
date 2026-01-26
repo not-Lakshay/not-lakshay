@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/not_lakshay?ext=heatmap&qtheme=wtf)
+![Leetcode Stats](https://leetcard.jacoblin.cool/not_lakshay?ext=heatmap&theme=wtf)
