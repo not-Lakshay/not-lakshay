@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/not-lakshay)
+![Leetcode Stats](not-lakshay)
