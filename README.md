@@ -1,5 +1,3 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/not_lakshay?ext=heatmap)
-
 # Hi, I'm a Web3 Student Developer
 
 I’m a student developer exploring **Web3**, focused on building **practical, trustless systems** using smart contracts and decentralized infrastructure.
@@ -50,6 +48,10 @@ Each repository typically represents a focused idea or experiment rather than a 
 - Prefer **verifiability over trust**
 - Keep systems minimal and composable
 - Learn by shipping
+
+---
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/not_lakshay?ext=heatmap)
 
 ---
 
