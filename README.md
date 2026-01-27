@@ -1,13 +1,13 @@
-# Hi, I'm Lakshay 
+# Hi, I'm Lakshay 👋
 
-I’m a **B.Tech student** exploring different areas of software development and trying to find my niche by **learning fundamentals and building projects**.
+I’m a **B.Tech student** exploring different areas of software development and gradually figuring out my niche by **learning fundamentals and building projects**.
 
 Right now, I’m focused on:
-- Strengthening **problem-solving skills** through DSA
-- Understanding **core programming concepts**
-- Experimenting with small projects to see what I enjoy building most
+- Improving **problem-solving skills** through DSA
+- Strengthening **core programming fundamentals**
+- Exploring **Web Development and Blockchain/Web3** at a beginner level
 
-I’m still early in my journey, but I prefer learning by **doing**, not just watching tutorials.
+I’m still early in my journey, but I prefer learning by **building and practicing**, not just consuming tutorials.
 
 ---
 
@@ -16,7 +16,8 @@ I’m still early in my journey, but I prefer learning by **doing**, not just wa
 - **Data Structures & Algorithms** (LeetCode, C++)
 - Programming fundamentals in **C, C++, Java**
 - Frontend basics: **HTML, CSS, JavaScript**
-- **Blockchain basics** (intro-level concepts, not advanced protocols yet)
+- **Blockchain & Web3 fundamentals**  
+  (completed a basic course and learning concepts like Ethereum, smart contracts at an introductory level)
 
 ---
 
@@ -24,30 +25,31 @@ I’m still early in my journey, but I prefer learning by **doing**, not just wa
 
 - **Languages:** C, C++, Java, JavaScript  
 - **Web:** HTML, CSS  
-- **CS Fundamentals:** DSA, basic problem solving  
+- **Blockchain:** Web3 & Ethereum (basics)  
+- **CS Fundamentals:** DSA, problem solving  
 - **Tools:** Git, GitHub, VS Code  
 
-> I’m not an expert yet — this stack reflects what I’m actively learning and practicing.
+> This stack reflects what I’m **actively learning and practicing**, not mastery.
 
 ---
 
 ## Projects
 
-I’ve built a few **small projects and practice repos** as part of my learning:
+I’ve worked on a few **small projects and practice repositories** as part of my learning journey:
 - Beginner web projects
-- Coding practice repositories
-- Experimental ideas while exploring different domains
+- DSA and coding practice repositories
+- Experimental projects while exploring different domains
 
-Each project represents a step in understanding concepts better, not production-ready software.
+Each repository represents **learning progress**, not production-ready applications.
 
 ---
 
 ## Learning Philosophy
 
-- Start simple, then improve
-- Don’t fake expertise — build it
-- Consistency over hype
-- Learn fundamentals before frameworks
+- Learn fundamentals before jumping to hype
+- Build small → understand deeply
+- Consistency over shortcuts
+- Be honest about skill level and improve it daily
 
 ---
 
@@ -57,14 +59,15 @@ Each project represents a step in understanding concepts better, not production-
 
 ---
 
-## Let’s Connect
+## 🤝 Let’s Connect
 
-I’m always open to learning, collaborating, or just discussing tech and career paths.
+I’m always open to learning, collaborating, or discussing tech, DSA, and career paths.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-bhardwaj-179355390/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lakshay_yy)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/not_lakshay)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/not-lakshay)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshay.link@gmail.com)
 
 ---
 
-Always learning. Still figuring things out. Building step by step.
+Always learning. Still exploring. Building step by step.
