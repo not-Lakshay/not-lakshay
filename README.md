@@ -1,55 +1,57 @@
-# Hi, I'm a Web3 Student Developer
+# Hi, I'm Lakshay 
 
-I’m a student developer exploring **Web3**, focused on building **practical, trustless systems** using smart contracts and decentralized infrastructure.
+I’m a **B.Tech student** exploring different areas of software development and trying to find my niche by **learning fundamentals and building projects**.
 
-My interests lie at the intersection of:
-- **Smart Contracts & Protocol Design**
-- **Decentralized Identity (DID)**
-- **On-chain Verification & Trustless Systems**
+Right now, I’m focused on:
+- Strengthening **problem-solving skills** through DSA
+- Understanding **core programming concepts**
+- Experimenting with small projects to see what I enjoy building most
 
-I prefer shipping **minimal but meaningful MVPs**—often through hackathons—over speculative or hype-driven applications.
-
----
-
-## What I’m Currently Exploring
-
-- **Ethereum & Solidity**
-- Smart contract security and design patterns
-- Decentralized identity primitives
-- Verifiable on-chain data and authentication
-- Web3 infrastructure and developer tooling
+I’m still early in my journey, but I prefer learning by **doing**, not just watching tutorials.
 
 ---
 
-## Tech Stack
+## What I’m Currently Learning
 
-- **Blockchain:** Ethereum  
-- **Languages:** Solidity, JavaScript / TypeScript  
-- **Tools:** Hardhat, Foundry, Ethers.js, Web3.js  
-- **Concepts:** Smart contracts, DIDs, on-chain verification, trustless architectures  
-
----
-
-## Projects & Hackathons
-
-Most of my learning happens by building:
-- Hackathon projects
-- Proof-of-concepts
-- Minimal viable protocols
-- Experiments around verification and identity
-
-Each repository typically represents a focused idea or experiment rather than a polished production app.
+- **Data Structures & Algorithms** (LeetCode, C++)
+- Programming fundamentals in **C, C++, Java**
+- Frontend basics: **HTML, CSS, JavaScript**
+- **Blockchain basics** (intro-level concepts, not advanced protocols yet)
 
 ---
 
-## Philosophy
+## Tech Stack (Learning Level)
 
-- Build first, optimize later  
-- Prefer **verifiability over trust**
-- Keep systems minimal and composable
-- Learn by shipping
+- **Languages:** C, C++, Java, JavaScript  
+- **Web:** HTML, CSS  
+- **CS Fundamentals:** DSA, basic problem solving  
+- **Tools:** Git, GitHub, VS Code  
+
+> I’m not an expert yet — this stack reflects what I’m actively learning and practicing.
 
 ---
+
+## Projects
+
+I’ve built a few **small projects and practice repos** as part of my learning:
+- Beginner web projects
+- Coding practice repositories
+- Experimental ideas while exploring different domains
+
+Each project represents a step in understanding concepts better, not production-ready software.
+
+---
+
+## Learning Philosophy
+
+- Start simple, then improve
+- Don’t fake expertise — build it
+- Consistency over hype
+- Learn fundamentals before frameworks
+
+---
+
+## LeetCode Activity
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/not_lakshay?ext=heatmap)
 
@@ -57,6 +59,12 @@ Each repository typically represents a focused idea or experiment rather than a 
 
 ## Let’s Connect
 
-If you’re interested in Web3 infrastructure, decentralized identity, or trustless systems, feel free to connect or collaborate.
+I’m always open to learning, collaborating, or just discussing tech and career paths.
 
-Always learning. Always building.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-bhardwaj-179355390/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/not_lakshay)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/not-lakshay)
+
+---
+
+Always learning. Still figuring things out. Building step by step.
